@@ -20,3 +20,12 @@ console.log(typeof accountBo)
 // for this type you can convert each data type into another and check it status//
 */
 
+let stringNumber=null
+//converting into string //
+let convertintoString=String(stringNumber)
+console.log(convertintoString);
+console.log(typeof convertintoString)
+/*
+{
+1245 -> 1245 but type is string
+}*/
